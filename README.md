@@ -1,4 +1,4 @@
-# seccomp
+# docksec
 For all the snippets related to Docker Security.
 
 1. seccomp_bpf - This is a file to check for seccomp bpf mode (mode2 or filter mode).
